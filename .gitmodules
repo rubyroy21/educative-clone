@@ -1,0 +1,6 @@
+[submodule "educative-clone-client"]
+	path = educative-clone-client
+	url = https://github.com/sreerag-rajan/educative-clone-client
+[submodule "educative-clone-server"]
+	path = educative-clone-server
+	url = https://github.com/sreerag-rajan/educative-clone-server
